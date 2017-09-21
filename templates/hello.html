@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>待办事项</title>
+</head>
+<body>
+<h1>待办事项</h1>
+<p>welcome</p>
+<br>
+请输入一个待办事项
+<br>
+<form method="POST" action="http://localhost:5001/">
+    <input type="text" name="things">
+    <input type="submit" value="提交">
+</form>
+{% for item in name%}
+    <p>{{ item.id }}: {{item.text}}</p>
+{% endfor%}
+</body>
+</html>

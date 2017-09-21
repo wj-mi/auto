@@ -1,0 +1,195 @@
+1506012950252	geckodriver	INFO	geckodriver 0.19.0
+1506012950256	geckodriver	INFO	Listening on 127.0.0.1:50668
+1506012951409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CBIJAuq0fh1E"
+1506012954598	Marionette	INFO	Listening on port 2828
+1506013232762	geckodriver	INFO	geckodriver 0.19.0
+1506013232776	geckodriver	INFO	Listening on 127.0.0.1:36978
+1506013233863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HelZJ3sKVl6B"
+1506013235877	Marionette	INFO	Listening on port 2828
+1506013352757	geckodriver	INFO	geckodriver 0.19.0
+1506013352760	geckodriver	INFO	Listening on 127.0.0.1:57936
+1506013353886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.idpeJOfUUus2"
+1506013356063	Marionette	INFO	Listening on port 2828
+1506016664411	geckodriver	INFO	geckodriver 0.19.0
+1506016664419	geckodriver	INFO	Listening on 127.0.0.1:51295
+1506017218597	geckodriver	INFO	geckodriver 0.19.0
+1506017218600	geckodriver	INFO	Listening on 127.0.0.1:52020
+1506017219717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aABzYltEvyVQ"
+1506017220156	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017220157	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017220169	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017220170	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017220178	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017220179	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017220187	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017220187	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017220393	Marionette	INFO	Enabled via --marionette
+1506017220595	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017220596	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017220596	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017220597	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017220603	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017220604	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017220604	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017220605	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017222619	Marionette	INFO	Listening on port 37706
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017222670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017222718	Marionette	DEBUG	loaded listener.js
+1506017222760	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017222814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017222815	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017222832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017222908	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1506017222964	Marionette	INFO	New connections will no longer be accepted
+[Child 89147] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506017275981	geckodriver	INFO	geckodriver 0.19.0
+1506017275987	geckodriver	INFO	Listening on 127.0.0.1:52420
+1506017277094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qMXueYNKliEo"
+1506017277549	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017277550	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017277559	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017277560	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017277569	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017277569	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017277578	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017277578	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017277830	Marionette	INFO	Enabled via --marionette
+1506017278100	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017278101	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017278102	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017278102	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017278106	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017278107	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017278107	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017278107	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017280090	Marionette	INFO	Listening on port 43959
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017280121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017280166	Marionette	DEBUG	loaded listener.js
+1506017280213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017280245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017280246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017280256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017280330	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1506017280398	Marionette	INFO	New connections will no longer be accepted
+1506017306778	geckodriver	INFO	geckodriver 0.19.0
+1506017306782	geckodriver	INFO	Listening on 127.0.0.1:45327
+1506017307896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AHG0G5xeOFBX"
+1506017308468	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017308470	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017308482	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017308484	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017308494	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017308495	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017308505	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017308518	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017308817	Marionette	INFO	Enabled via --marionette
+1506017309076	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017309077	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017309078	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017309079	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017309083	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017309084	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017309084	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017309084	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017311019	Marionette	INFO	Listening on port 41304
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017311130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017311174	Marionette	DEBUG	loaded listener.js
+1506017311217	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017311252	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017311253	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017311354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017311356	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1506017311505	Marionette	INFO	New connections will no longer be accepted
+1506017344000	geckodriver	INFO	geckodriver 0.19.0
+1506017344004	geckodriver	INFO	Listening on 127.0.0.1:45788
+1506017345120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5ZymGfz3FxSN"
+1506017345640	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017345641	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017345650	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017345650	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017345657	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017345658	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017345664	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017345665	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017345935	Marionette	INFO	Enabled via --marionette
+1506017346130	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017346130	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017346131	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017346132	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017346136	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017346136	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017346137	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017346137	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017347955	Marionette	INFO	Listening on port 36369
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017348045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017348087	Marionette	DEBUG	loaded listener.js
+1506017348139	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017348178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017348178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017348192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017348271	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1506017348315	Marionette	INFO	New connections will no longer be accepted
+[Child 89621] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506017371853	geckodriver	INFO	geckodriver 0.19.0
+1506017371856	geckodriver	INFO	Listening on 127.0.0.1:40053
+1506017373018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lm7wUxNKhPW3"
+1506017373629	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017373630	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017373638	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017373639	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017373646	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017373646	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017373652	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017373653	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017373915	Marionette	INFO	Enabled via --marionette
+1506017374120	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017374121	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017374121	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017374122	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017374126	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017374126	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017374127	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017374127	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017376246	Marionette	INFO	Listening on port 44786
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017376343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017376386	Marionette	DEBUG	loaded listener.js
+1506017376438	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017376466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017376467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017376482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017376553	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1506017376626	Marionette	INFO	New connections will no longer be accepted
+1506017431506	geckodriver	INFO	geckodriver 0.19.0
+1506017431516	geckodriver	INFO	Listening on 127.0.0.1:35182
+1506017432641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.11hx8DGaZ4lE"
+1506017433301	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017433302	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017433312	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017433312	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017433321	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017433321	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017433330	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017433331	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017433621	Marionette	INFO	Enabled via --marionette
+1506017433946	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017433947	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017433947	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017433948	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017433954	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1506017433954	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1506017433955	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1506017433955	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1506017436086	Marionette	INFO	Listening on port 44240
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506017436183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506017436235	Marionette	DEBUG	loaded listener.js
+1506017436325	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506017436376	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506017436377	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506017436393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1506017436460	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"

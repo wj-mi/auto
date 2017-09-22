@@ -12,7 +12,7 @@
 <br>
 <form method="POST" action="http://localhost:5001/">
     <input type="text" name="things">
-    <input type="submit" value="提交">
+    <input type="submit" value="提交" id="submit_btn">
 </form>
 {% for item in name%}
     <p>{{ item.id }}: {{item.text}}</p>
